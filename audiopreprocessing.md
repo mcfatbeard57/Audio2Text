@@ -1,4 +1,4 @@
-Certainly, here's a breakdown of the improved code with detailed explanations and relevant documentation links:
+Here's a breakdown of the code with detailed explanations and relevant documentation links:
 
 **Imports:**
 
