@@ -1,5 +1,5 @@
 # Audio2Text
-Audio to Text with label.
+Audio to Text with label
 
 ## Audio to Text with Speaker Identification - A FastAPI Project
 
