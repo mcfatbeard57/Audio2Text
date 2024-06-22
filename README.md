@@ -49,4 +49,4 @@ The project is organized into the following directories:
 
 While the report focuses on the API, a user-friendly interface can be developed to allow users to easily upload, transcribe, and manage their audio files. The interface could display speaker-differentiated transcripts, provide options for download or further editing, and offer functionalities like timestamp synchronization with the original audio. 
 
-This project provides a solid foundation for an audio-to-text tool with speaker identification. With further development, it can become a valuable asset for tasks like meeting transcription, audio note taking, and media accessibility..
+This project provides a solid foundation for an audio-to-text tool with speaker identification. With further development, it can become a valuable asset for tasks like meeting transcription, audio note taking, and media accessibility.
